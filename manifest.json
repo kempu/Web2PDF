@@ -33,7 +33,8 @@
     {
       "resources": [
         "lib/jspdf.umd.min.js",
-        "lib/html2canvas.min.js"
+        "lib/html2canvas.min.js",
+        "lib/pdfobject.min.js"
       ],
       "matches": [
         "<all_urls>"
